@@ -6,7 +6,7 @@
 [ぱすた(Discordサーバー)](https://discord.gg/nq2tQXHAXt)
 [サイト](https://aqua-site.pages.dev/)
 
-#使用可能言語
+# 使用可能言語
 html,css,js / Node.js / Java(勉強中) / C++ (勉強中)
 </br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

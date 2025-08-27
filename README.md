@@ -13,3 +13,4 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-AAAAAA?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-AAAAAA?style=flat-square&logo=c%2B%2B&logoColor=white)
+![しあん's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyan-cs&show_icons=true&theme=radical)

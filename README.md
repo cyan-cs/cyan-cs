@@ -1,5 +1,5 @@
 # 自己紹介(?)
-有能(?)フルスタックエンジニア(???) / 淫夢厨 / 日本人 / BrainFuckガチ恋勢(?)
+有能(?)フルスタックエンジニア(???) / 日本人 / BrainFuckガチ恋勢(?)
 
 # 連絡先
 [![X](https://img.shields.io/badge/X-1E90FF?style=flat-square&logo=twitter&logoColor=white)](https://x.com/dev_cyan)

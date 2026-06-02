@@ -15,7 +15,7 @@
 ![C++](https://img.shields.io/badge/-C++-AAAAAA?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 # Stats
-![しあん's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyan-cs&show_icons=true&theme=radical)
+![しあん's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyan&show_icons=true&theme=radical)
 
 # support
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/0cyan)

@@ -5,7 +5,7 @@
 [![X](https://img.shields.io/badge/X-1E90FF?style=flat-square&logo=twitter&logoColor=white)](https://x.com/dev_cyan)
 [![Discord](https://img.shields.io/badge/Discord-1E90FF?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/nq2tQXHAXt)
 [![サイト](https://img.shields.io/badge/サイト-1E90FF?style=flat-square&logo=google-chrome&logoColor=white)](https://aqua-site.pages.dev/)
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/0cyan))
+
 # 使用可能言語
 ![HTML5](https://img.shields.io/badge/-HTML5-1E90FF?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1E90FF?style=flat-square&logo=css3&logoColor=white)
@@ -16,3 +16,6 @@
 
 # Stats
 ![しあん's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyan-cs&show_icons=true&theme=radical)
+
+# support
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/0cyan)

@@ -15,7 +15,7 @@
 ![C++](https://img.shields.io/badge/-C++-AAAAAA?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 # stats
-![card](https://profile.cy-an.net/cyan-cs)
+![card](https://profile.cy-an.net/cyan-cs?v2)
 
 # support
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/0cyan)
